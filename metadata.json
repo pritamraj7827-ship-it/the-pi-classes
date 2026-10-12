@@ -1,0 +1,6 @@
+{
+  "name": "The PI Classes — The Centre of Excellence",
+  "description": "Premier coaching institute in Katihar offering quality academic education for CBSE Classes 7–10 and Specialized Physics for Classes 11 & 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
